@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\TravisTest\UnitTests\bin\Debug\UnitTests.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\TravisTest\UnitTests\bin\Debug\UnitTests.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\TravisTest\UnitTests\bin\Debug\nunit.framework.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\TravisTest\UnitTests\bin\Debug\nunit.framework.xml
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\TravisTest\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\TravisTest\UnitTests\obj\Debug\UnitTests.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\TravisTest\UnitTests\obj\Debug\UnitTests.pdb

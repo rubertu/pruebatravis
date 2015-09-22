@@ -1,19 +1,18 @@
-﻿
+﻿using System;
 using NUnit.Framework;
 
-namespace TravisTest
+namespace UnitTests
 {
     [TestFixture]
-    public class Class1
+    public class UnitTest1
     {
-//hola
         [Test]
         public static void Test1()
         {
             int a = 1;
             int b = 1;
 
-            Assert.AreEqual(a,b);
+            Assert.AreEqual(a, b);
         }
     }
 }
